@@ -5,7 +5,7 @@ go 1.23.0
 require (
 	github.com/google/uuid v1.6.0
 	github.com/swaggo/http-swagger v1.3.4
-	github.com/swaggo/swag v1.16.4
+	github.com/swaggo/swag v1.16.5
 	github.com/umputun/go-flags v1.5.1
 	go.uber.org/zap v1.27.0
 )
@@ -13,6 +13,8 @@ require (
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
+	golang.org/x/mod v0.19.0 // indirect
+	golang.org/x/sync v0.10.0 // indirect
 )
 
 require (
